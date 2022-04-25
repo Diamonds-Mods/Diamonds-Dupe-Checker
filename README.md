@@ -4,9 +4,6 @@ The Diamonds-Dupe-Checker for Forge 1.8.9 is a Minecraft mod, which was made to 
 # What does the mod do?
 Once you activate the mod by installing it and joining SkyBlock, you need to activate it and the mod will scan your inventory for duplicated items, which means if somebody has the same item as you it will be flagged as a duplicated item and automatically be marked as a red item.
 
-# Example:
-
-![image](https://user-images.githubusercontent.com/104328909/165000940-f5707735-2d5d-4d37-9453-fa64090e7f71.png)
 
 Can I get banned for using this mod?
 The simple answer to this question is No. All the mod does is check for duplicated items using the Hypixel API.
