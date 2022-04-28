@@ -9,10 +9,10 @@ Can I get banned for using this mod?
 The simple answer to this question is No. All the mod does is check for duplicated items using the Hypixel API.
 
 # Download
-You can download the Diamond's-Dupe-Checker by clicking [Here](https://github.com/Diamonds-Mods/Diamonds-Dupe-Checker/)
+You can download the Diamond's-Dupe-Checker by clicking [here](https://github.com/Diamonds-Mods/Diamonds-Dupe-Checker/releases/tag/DDC-4.1.5))
 
 # How do I set it up?
-1. Download the mod by clicking [Here](https://github.com/Diamonds-Mods/Diamonds-Dupe-Checker/)
+1. Download the mod by clicking [here](https://github.com/Diamonds-Mods/Diamonds-Dupe-Checker/releases/tag/DDC-4.1.5))
 
 2. Press WINDOWS + R and type %appdata%
 
